@@ -1,22 +1,8 @@
 {
-  "name": "nextjs",
+  "name": "learn-nextJS",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "dev": "node server.js",
-    "build": "next build",
-    "start": "next start -p $PORT"
-  },
-  "dependencies": {
-    "express": "^4.16.4",
-    "isomorphic-unfetch": "^3.0.0",
-    "next": "^7.0.2",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-markdown": "^4.0.6"
-  },
-  "devDependencies": {
-    "serialize-javascript": "^2.1.1"
-  }
+  "repository": "git@github.com:Oeufhp/learn-nextJS.git",
+  "author": "Oeuf <oeufhp@gmail.com>",
+  "license": "MIT"
 }
