@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Oeufhp/learn-nextJS.git",
   "author": "Oeuf <oeufhp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "yarn-upgrade-all": "^0.7.1"
+  }
 }
